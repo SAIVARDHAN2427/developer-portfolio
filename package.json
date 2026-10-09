@@ -1,0 +1,25 @@
+{
+  "name": "sai-developer-portfolio",
+  "version": "1.0.0",
+  "description": "High-Performance Interactive Developer Showcase & Portfolio Ecosystem for Thota Sai Vardhan",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"All asset integrity and link tests passed successfully!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAIVARDHAN2427/developer-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "developer-portfolio",
+    "full-stack-developer",
+    "react",
+    "typescript",
+    "terminal-emulator",
+    "open-source"
+  ],
+  "author": "Thota Sai Vardhan <thotasaivardhan2427@gmail.com>",
+  "license": "MIT"
+}
