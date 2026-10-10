@@ -26,6 +26,7 @@ function initTerminal() {
     help: () => `
 <div class="term-block">
   <span class="term-cyan font-bold">AVAILABLE COMMANDS:</span>
+  <div>  <span class="term-green font-bold">journey</span>       - 0 to Hero: 4-Year Academic & Engineering Evolution</div>
   <div>  <span class="term-green font-bold">cat resume</span>   - View printable resume summary & download link</div>
   <div>  <span class="term-green font-bold">projects</span>     - Explore 3-Tier engineering projects & repositories</div>
   <div>  <span class="term-green font-bold">skills</span>       - List full-stack languages, frameworks & DevOps</div>
@@ -35,6 +36,40 @@ function initTerminal() {
   <div>  <span class="term-green font-bold">whoami</span>       - Display visitor identity</div>
   <div>  <span class="term-green font-bold">date</span>         - Display system timestamp</div>
   <div>  <span class="term-green font-bold">clear</span>        - Clear terminal console</div>
+</div>`,
+
+    journey: () => `
+<div class="term-block">
+  <span class="term-cyan font-bold">══════════════════════════════════════════════════════════════</span>
+  <div class="font-bold">0 TO HERO: 4-YEAR ACADEMIC & TECHNICAL EVOLUTION</div>
+  <span class="term-cyan font-bold">══════════════════════════════════════════════════════════════</span>
+  <div class="mt-1">
+    <span class="term-yellow font-bold">[YEAR 1 • 2021-2022] FOUNDATIONS & SOCIAL INTERNSHIP</span>
+    <div>• Mastered core CS fundamentals: C, Java, OOP, Data Structures & Algorithms.</div>
+    <div>• Led community impact via KL University Social Internship Program.</div>
+  </div>
+  <div class="mt-1">
+    <span class="term-yellow font-bold">[YEAR 2 • 2022-2023] FRONTEND & CLOUD NETWORKING</span>
+    <div>• Web standards: Semantic HTML5, CSS3, Modern ES6+ JavaScript, DOM APIs.</div>
+    <div>• Certifications: Aviatrix Multi-Cloud Network Associate & Automation Anywhere RPA.</div>
+  </div>
+  <div class="mt-1">
+    <span class="term-yellow font-bold">[YEAR 3 • 2023-2024] BACKEND & INVESTANEST CORE</span>
+    <div>• Backend microservices: Node.js, Express, TypeScript, REST APIs, PostgreSQL.</div>
+    <div>• Built Tier 2 InvestaNest Core: Double-entry ledger with ACID transactions & Sharpe ratio.</div>
+    <div>• Certifications: Salesforce Certified Associate, HackerRank Problem Solving.</div>
+  </div>
+  <div class="mt-1">
+    <span class="term-yellow font-bold">[YEAR 4 • 2024-2025] NEXUS AI ORCHESTRATOR & INDUSTRY CERTS</span>
+    <div>• Built Tier 3 Nexus AI Orchestrator: Topological DAG engine & 4 autonomous agents.</div>
+    <div>• Certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate, Postman API Expert.</div>
+    <div>• Built Tier 1 Developer Portfolio & Unix Shell with zero framework overhead.</div>
+  </div>
+  <div class="mt-1">
+    <span class="term-green font-bold">[CONTINUOUS EXPLORATION • 2025-2026]</span>
+    <div>• Researching LLM multi-agent patterns, distributed event streaming, and cloud architectures.</div>
+    <div>• Immediate joiner ready to deliver high-impact software engineering value.</div>
+  </div>
 </div>`,
 
     'cat resume': () => `

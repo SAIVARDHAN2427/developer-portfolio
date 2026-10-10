@@ -1,12 +1,14 @@
 # ⚡ Developer Portfolio & Interactive Engineering Ecosystem
 
+[![Live Site](https://img.shields.io/badge/live--demo-saivardhan2427.github.io-success?style=flat&logo=github-pages&logoColor=white)](https://saivardhan2427.github.io/developer-portfolio/)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/SAIVARDHAN2427/developer-portfolio?style=flat&color=38bdf8)](https://github.com/SAIVARDHAN2427/developer-portfolio/stargazers)
 [![Status](https://img.shields.io/badge/status-production--ready-success.svg)](https://github.com/SAIVARDHAN2427/developer-portfolio)
 [![ATS Compliant](https://img.shields.io/badge/resume-ATS--Optimized-brightgreen.svg)](assets/Thota_Sai_Vardhan_Resume.pdf)
 
 > **Live Production Showcase & Interactive Unix Shell Emulator for Thota Sai Vardhan**  
-> *Full Stack Software Engineer • B.Tech CSE (KL University '25) • Immediate Joiner*
+> *Full Stack Software Engineer • B.Tech CSE (KL University '25) • Immediate Joiner*  
+> 🌐 **Live Website:** [https://saivardhan2427.github.io/developer-portfolio/](https://saivardhan2427.github.io/developer-portfolio/)
 
 ---
 
